@@ -134,9 +134,9 @@ streamlit run app.py
 ## Contact
 
 For questions about this project or to discuss AI project management:
-- Email: [your-email]
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
+
+- LinkedIn: (https://www.linkedin.com/in/engrgrldn/)
+
 
 ## License
 
