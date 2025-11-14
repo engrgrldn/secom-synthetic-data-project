@@ -4,7 +4,7 @@
 
 This project demonstrates how synthetic data generation can enable AI development in semiconductor manufacturing while preserving trade secrets and competitive intelligence. Using the SECOM dataset, we show that synthetic data maintains statistical properties and predictive performance while protecting sensitive process parameters.
 
-**Target Application**: AI Project Manager position at MOSTLY AI  
+
 **Author**: Geraldine Castillo
 **Date**: November 2025
 
